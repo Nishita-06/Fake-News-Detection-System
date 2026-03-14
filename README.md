@@ -80,10 +80,14 @@ The program searches the news text for suspicious keywords.
 
 Example:
 
- Keyword  | Found 
- secret       ✔     
- miracle      ✘    
- shocking     ✘     
+ Keyword  | Found
+ 
+ secret       ✔
+ 
+ miracle      ✘  
+ 
+ shocking     ✘
+ 
  cure         ✔ 
 
 Keyword Score = 2
@@ -99,7 +103,9 @@ Sentiment values range from:
  Score | Meaning       
   
  -1   -  Very negative 
-  0   -   Neutral       
+ 
+  0   -   Neutral
+  
  +1   -  Very positive 
 
 Fake news often contains emotionally exaggerated language
@@ -140,37 +146,28 @@ Fake-News-Detector
 
 ## 🔮 Future Improvements
 
-Possible improvements include:
-
 1. **Machine Learning Models**
 
    * Logistic Regression
    * Naive Bayes
    * Support Vector Machine
 
-2. **Advanced NLP**
-
-   * TF-IDF feature extraction
-   * Word embeddings
-
-3. **Deep Learning**
+2. **Deep Learning**
 
    * LSTM networks
    * Transformer models like BERT
 
-4. **Source Credibility Checking**
+3. **Source Credibility Checking**
 
    * Detect unreliable news sources
 
-5. **Social Media Integration**
+4. **Social Media Integration**
 
    * Detect misinformation from platforms such as Twitter and Facebook
 
 ---
 
-## 🎯 Learning Outcomes
-
-Through this project, the following concepts were explored:
+## 🎯 Through this project, the following concepts were explored:
 
 * Text processing in Python
 * Sentiment analysis using NLP
@@ -182,7 +179,7 @@ Through this project, the following concepts were explored:
 
 ## 📌 Conclusion
 
-This project provides a basic prototype for detecting fake news using simple NLP techniques. While it is not as powerful as machine learning models, it demonstrates how text analysis and keyword detection can help identify suspicious news articles.
+This project provides a basic prototype for detecting fake news using simple NLP techniques and it demonstrates how text analysis and keyword detection can help identify suspicious news articles.
 
 ---
 
