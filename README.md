@@ -186,4 +186,4 @@ This project provides a basic prototype for detecting fake news using simple NLP
 
 ---
 
-⭐ If you like this project, feel free to **fork the repository and contribute improvements.**
+
